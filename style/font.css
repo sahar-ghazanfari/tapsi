@@ -1,0 +1,31 @@
+@font-face {
+  font-family: "vazir";
+  font-weight: 300;
+  font-style: normal;
+  src: url("/assets/fonts/Vazir-Light.woff");
+}
+
+@font-face {
+  font-family: "vazir";
+  font-weight: 500;
+  font-style: normal;
+  src: url("/assets/fonts/Vazir-Medium.woff");
+}
+
+@font-face {
+  font-family: "vazir";
+  font-weight: 700;
+  font-style: normal;
+  src: url("/assets/fonts/Vazir-Bold.woff");
+}
+
+@font-face {
+  font-family: "Roboto";
+  font-weight: 300;
+  font-style: normal;
+  src: url("/assets/fonts/Roboto-Light.ttf");
+}
+
+body {
+  font-family: "vazir", "Roboto";
+}
